@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "971492139632",
+    "firebase_url": "https://fir-app-e2562-default-rtdb.firebaseio.com",
+    "project_id": "fir-app-e2562",
+    "storage_bucket": "fir-app-e2562.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971492139632:android:ca43665fb841cebfd68ab5",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpn3w66_QEk8ZDYY-e-CGL1Rv5mSxwd7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971492139632:android:86acbfc447f588e3d68ab5",
+        "android_client_info": {
+          "package_name": "com.example.modullayout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpn3w66_QEk8ZDYY-e-CGL1Rv5mSxwd7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971492139632:android:564ea2a62fc3b96ad68ab5",
+        "android_client_info": {
+          "package_name": "com.example.taskstackapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpn3w66_QEk8ZDYY-e-CGL1Rv5mSxwd7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
